@@ -1,0 +1,14 @@
+{
+    "name": "Kurisu.AkiSteer",
+    "rootNamespace": "Kurisu.AkiSteer",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

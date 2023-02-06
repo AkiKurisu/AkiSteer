@@ -1,0 +1,17 @@
+{
+    "name": "Kurisu.Steer.Extend",
+    "rootNamespace": "",
+    "references": [
+        "GUID:420d017ad7efb704a938d6b28074a752",
+        "GUID:626070ea3273cb844a310aa4f53b31fa"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

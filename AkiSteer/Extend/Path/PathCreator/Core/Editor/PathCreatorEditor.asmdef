@@ -1,0 +1,18 @@
+{
+    "name": "PathCreator.Editor",
+    "rootNamespace": "PathCreator.Editor",
+    "references": [
+        "PathCreator"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

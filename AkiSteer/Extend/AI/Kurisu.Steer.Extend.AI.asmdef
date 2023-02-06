@@ -1,0 +1,17 @@
+{
+    "name": "Kurisu.Steer.Extend.AI",
+    "rootNamespace": "Kurisu.Steer.Extend.AI",
+    "references": [
+        "GUID:420d017ad7efb704a938d6b28074a752",
+        "GUID:4a9214fa9d60c4c92bfc3c635010f27f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
